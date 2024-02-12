@@ -1,0 +1,63 @@
+{
+    "audit_logs": [
+        {
+            "url": "https://identity.zendesk.com/api/v2/audit_logs/111111.json",
+            "id": 1111111111,
+            "action_label": "Signed in",
+            "actor_id": 1111111111,
+            "source_id": 1111111111,
+            "source_type": "user",
+            "source_label": "Team member: Test Tester",
+            "action": "login",
+            "change_description": "Successful sign-in using SAML from https://identity.zendesk.com/access/saml/",
+            "ip_address": "111.111.111.11",
+            "created_at": "2023-12-07T17:50:08Z",
+            "actor_name": "Tester Test"
+        },
+        {
+            "url": "https://identity.zendesk.com/api/v2/audit_logs/111111.json",
+            "id": 1111111111,
+            "action_label": "Signed in",
+            "actor_id": 1111111111,
+            "source_id": 1111111111,
+            "source_type": "user",
+            "source_label": "Team member: Test Tester",
+            "action": "login",
+            "change_description": "Successful sign-in using SAML from https://identity.zendesk.com/access/saml/",
+            "ip_address": "111.111.111.11",
+            "created_at": "2023-12-07T17:49:08Z",
+            "actor_name": "Tester Test"
+        },
+        {
+            "url": "https://identity.zendesk.com/api/v2/audit_logs/111111.json",
+            "id": 1111111111,
+            "action_label": "Signed in",
+            "actor_id": 1111111111,
+            "source_id": 1111111111,
+            "source_type": "user",
+            "source_label": "Team member: Test Tester",
+            "action": "login",
+            "change_description": "Successful sign-in using SAML from https://identity.zendesk.com/access/saml/",
+            "ip_address": "111.111.111.11",
+            "created_at": "2023-12-07T17:48:08Z",
+            "actor_name": "Tester Test"
+        },
+        {
+            "url": "https://identity.zendesk.com/api/v2/audit_logs/111111.json",
+            "id": 1111111111,
+            "action_label": "Signed in",
+            "actor_id": 1111111111,
+            "source_id": 1111111111,
+            "source_type": "user",
+            "source_label": "Team member: Test Tester",
+            "action": "login",
+            "change_description": "Successful sign-in using SAML from https://identity.zendesk.com/access/saml/",
+            "ip_address": "111.111.111.11",
+            "created_at": "2023-12-07T17:47:08Z",
+            "actor_name": "Tester Test"
+        }
+    ],
+    "next_page": "https://identity.zendesk.com/api/v2/audit_logs.json?page=2&sort_order=desc",
+    "previous_page": null,
+    "count": 4
+}
